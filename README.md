@@ -1,7 +1,7 @@
 # House Price Prediction
 
 ## Overview
-This project implements a machine learning model to predict house prices based on various features such as location, square footage, number of bedrooms and bathrooms, and other relevant factors. The model is trained using a dataset of real estate prices and aims to provide accurate price estimations.
+This project implements 2 machine learning model to predict house prices based on various features such as location, square footage, number of bedrooms and bathrooms, and other relevant factors. The model is trained using a dataset of real estate prices and aims to provide accurate price estimations.
 
 ## Features
 - Data preprocessing and cleaning
